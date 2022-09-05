@@ -8,6 +8,7 @@ public class ClientInfo {
 
 		int length = j.length();
 		System.out.println(length);
+		System.out.println("HI");
 
 	}
 
